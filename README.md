@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Oyilla Exams
 
-You can use the [editor on GitHub](https://github.com/oyilla/oyilla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+oyilla.com is an online exam practice website offering services around the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our aim is to provide students a unique platform for easy learing in developing Learner's skills
 
-### Markdown
+This content is copyright of oyilla © 2019. All rights reserved.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:
 
-```markdown
-Syntax highlighted code block
+you may print or download to a local hard disk extracts for your personal and non-commercial use only you may copy the content to individual third parties for their personal use, but only if you acknowledge the website as the source of the material
 
-# Header 1
-## Header 2
-### Header 3
+You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or other form of electronic retrieval system
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oyilla/oyilla/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+write us an email @ oyilla9@gmail.com
