@@ -1,3 +1,9 @@
+# Name of website
+title: Oyilla
+
+# Short description of your site
+description: Examination Apps
 theme: jekyll-theme-architect
 github:
   is_project_page: false
+  
