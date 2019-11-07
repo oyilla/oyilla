@@ -3,7 +3,7 @@ title: Oyilla
 
 # Short description of your site
 description: Examination Apps
-theme: jekyll-theme-architect
+theme: none
 github:
   is_project_page: false
   
