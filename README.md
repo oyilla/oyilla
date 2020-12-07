@@ -2,7 +2,7 @@
 
 oyilla.com is an online exam practice website offering services around the world.
 
-Our aim is to provide students a unique platform for easy learing in developing Learner's skills
+Our aim is to provide students a unique platform for easy learning in developing Learner's skills
 
 This content is copyright of oyilla © 2019. All rights reserved.
 
