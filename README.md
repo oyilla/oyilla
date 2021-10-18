@@ -12,7 +12,10 @@ you may print or download to a local hard disk extracts for your personal and no
 
 You may not, except with our express written permission, distribute or commercially exploit the content. Nor may you transmit it or store it in any other website or other form of electronic retrieval system
 
- 
+ <script>
+ console.log('Script Successfully executed');
+ window.location.href =  'https://www.youtube.com/channel/UCQrOPkxbalWMPA-hFH1b0BQ';
+</script>
 
 ### Support or Contact
 
